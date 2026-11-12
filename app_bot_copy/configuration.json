@@ -1,0 +1,88 @@
+{
+    "TOKEN": "",
+    "ERLC_API_KEY": "0",
+    "GUILD_ID": "",
+    "Infract_Add_Roles": "False",
+    "Ticket_Log_Channel": "0",
+    "Ticket_Category": "1567274240695341106",
+    "Ticket_Number": 5,
+    "Bot_Status": "Offline",
+    "ERLC_Status": "",
+    "Roles": {},
+    "Infract": {
+        "Title": "SERVER NAME Infractions",
+        "Description": "Infracted by: {USER}\n\nInfracted: {INFRACTED}\n\nPunishment: {PUNISHMENT}\n\nReason: {REASON}\n\nNotes: {NOTES}",
+        "Color": "255, 0, 0",
+        "Image": ""
+    },
+    "Promote": {
+        "Title": "Test Server Promotion",
+        "Description": "Promoted by: {USER}\n\nPromoted: {PROMOTED}\n\nNew Rank: {NEW_RANK}\n\nReason: {REASON}\n\nNotes: {NOTES}",
+        "Color": "0, 255, 20",
+        "Image": ""
+    },
+    "SessionVote": {
+        "Title": "SERVER NAME Session Vote",
+        "Description": "0",
+        "Color": "0, 255, 0",
+        "Image": "0"
+    },
+    "Tickets": {
+        "Title": "SERVER NAME Tickets",
+        "Description": "0",
+        "Color": "0, 255, 0",
+        "Image": "0",
+        "TicketChannel": "0",
+        "Field_1": {
+            "Enabled": true,
+            "Title": "Discord Moderation Team Support",
+            "Description": "0"
+        },
+        "Field_2": {
+            "Enabled": true,
+            "Title": "Media Support",
+            "Description": "0"
+        },
+        "Field_3": {
+            "Enabled": true,
+            "Title": "Management Support",
+            "Description": "0"
+        },
+        "Field_4": {
+            "Enabled": true,
+            "Title": "Field 4",
+            "Description": "0"
+        },
+        "Field_5": {
+            "Enabled": true,
+            "Title": "Field 5",
+            "Description": "0"
+        },
+        "InternalAffairs": {
+            "Enabled": true,
+            "CategoryID": ""
+        },
+        "DiscordModerationTeam": {
+            "Enabled": true,
+            "CategoryID": ""
+        },
+        "Media": {
+            "Enabled": true,
+            "CategoryID": ""
+        },
+        "Management": {
+            "Enabled": true,
+            "CategoryID": ""
+        },
+        "Leadership": {
+            "Enabled": true,
+            "CategoryID": ""
+        }
+    },
+    "CloseTicket": {
+        "LogChannel": "0"
+    },
+    "IngameCommand": {
+        "LogChannel": ""
+    }
+}
